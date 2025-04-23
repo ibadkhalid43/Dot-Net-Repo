@@ -1,0 +1,33 @@
+L:\Dot Net Practice\bin\Debug\net9.0\appsettings.Development.json
+L:\Dot Net Practice\bin\Debug\net9.0\appsettings.json
+L:\Dot Net Practice\bin\Debug\net9.0\Dot Net Practice.staticwebassets.endpoints.json
+L:\Dot Net Practice\bin\Debug\net9.0\Dot Net Practice.exe
+L:\Dot Net Practice\bin\Debug\net9.0\Dot Net Practice.deps.json
+L:\Dot Net Practice\bin\Debug\net9.0\Dot Net Practice.runtimeconfig.json
+L:\Dot Net Practice\bin\Debug\net9.0\Dot Net Practice.dll
+L:\Dot Net Practice\bin\Debug\net9.0\Dot Net Practice.pdb
+L:\Dot Net Practice\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+L:\Dot Net Practice\bin\Debug\net9.0\Microsoft.OpenApi.dll
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.csproj.AssemblyReference.cache
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.GeneratedMSBuildEditorConfig.editorconfig
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.AssemblyInfoInputs.cache
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.AssemblyInfo.cs
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.csproj.CoreCompileInputs.cache
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.MvcApplicationPartsAssemblyInfo.cs
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.MvcApplicationPartsAssemblyInfo.cache
+L:\Dot Net Practice\obj\Debug\net9.0\scopedcss\bundle\Dot Net Practice.styles.css
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets.build.json
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets.development.json
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets\msbuild.Dot Net Practice.Microsoft.AspNetCore.StaticWebAssets.props
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets\msbuild.Dot Net Practice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets\msbuild.build.Dot Net Practice.props
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Dot Net Practice.props
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Dot Net Practice.props
+L:\Dot Net Practice\obj\Debug\net9.0\staticwebassets.pack.json
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net .7E4C55E8.Up2Date
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.dll
+L:\Dot Net Practice\obj\Debug\net9.0\refint\Dot Net Practice.dll
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.pdb
+L:\Dot Net Practice\obj\Debug\net9.0\Dot Net Practice.genruntimeconfig.cache
+L:\Dot Net Practice\obj\Debug\net9.0\ref\Dot Net Practice.dll
