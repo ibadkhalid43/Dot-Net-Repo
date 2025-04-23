@@ -11,6 +11,10 @@ var summaries = new[]
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 };
 
+app.MapPost("/ibad" , ()=>{
+    
+});
+
 app.MapGet("/", () =>
 {
     var forecast =  Enumerable.Range(1, 5).Select(index =>
